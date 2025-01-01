@@ -1,0 +1,58 @@
+HASTALIKSIZ 
+Meyve:                       Eğitim           Test
+- Elma                       635              317
+- Nar                        804              300
+- Şeftali                    1833             796
+- Çilek                      833              432
+- Portakal                   409              192
+
+Eğitim Ort  :  903
+Test Ort    :  408
+
+----------------------------------------------------
+
+Sebze:                       Eğitim           Test
+- Biber                      241              143
+- Domates                    726              327
+- Mısır                      906              300
+- Patates                    396              211
+- Patlıcan                   827              385
+
+Eğitim Ort  :  620
+Test Ort    :  274
+
+----------------------------------------------------------------------------------------
+
+HASTALIKLI 
+Meyve:                       Eğitim           Test
+- Elma                       5763             1441 - (3) apple scab, black rot, cedar apple rust
+- Nar                        2867             1000 - (4) alternaria, anthracnose, bacterial blight, cercospora
+- Şeftali                    3394             1200 - (1) bacterial spot
+- Çilek                      1450             743  - (7) angular leafspot, anthracnose fruit rot, blossom blight, gray mold, leaf spot, powdery mildew fruit, powdery mildew leaf
+- Portakal                   2742             473  - (3) black spot, citrus canker, grenning
+
+Eğitim Ort  :  3244
+Test Ort    :  972
+
+----------------------------------------------------
+
+Sebze:                       Eğitim           Test
+- Biber                      2536             913  - (1) bacterial spot 
+- Domates                    7861             2062 - (3) tomato bacterial spot, septoria leaf spot, tomato mosaic virus
+- Mısır                      2250             750  - (3) leaf blight, leaf rust, leaf spot
+- Patates                    2083             792  - (6) bacteria, fungi, nematode, pest, phytopthora, virus
+- Patlıcan                   903              200  - (4) insect pest, leaf spot, mosaic virus, wilt
+
+Eğitim Ort  :  3127
+Test Ort    :  944
+
+-------------
+
+TOPLAM:
+- EĞİTİM    :  40359
+- TEST	    :  12977
+	     +_______
+	       53336
+
+
+
